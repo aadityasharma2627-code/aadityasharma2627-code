@@ -41,7 +41,4 @@ I use AI coding tools to build fast, then test, document and improve what I make
 
 ---
 
-## 🏫 Roles
 
-- Class Representative, SIET Panchkula
-- Google Student Ambassador 2026
